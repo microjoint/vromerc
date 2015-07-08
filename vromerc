@@ -14,4 +14,4 @@ set editor=gvim -f
 " The server port is what external server running on
 " The external server is used to support launch the external editor in insert mode.
 " Please refer "Support External Editor" https://github.com/jinzhu/vrome/wiki/Support-External-Editor for more
-set server_port=30001
+set server_port=20000
